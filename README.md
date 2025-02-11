@@ -18,13 +18,6 @@ Welcome to my GitHub profile! I’m passionate about **[Digital IC Design]** and
 ## 📈 Contribution Graph
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aswin2good&theme=react-dark)
 
-## ⚡ Fun fact
-- I love **[your hobby or interesting fact]** in my free time!
-- Favorite books: **[your favorite books]**.
-- Favorite technologies: **[your favorite tech stack]**.
-
----
-
 ### Let's Connect! 
 - [LinkedIn]([https://](https://www.linkedin.com/in/aswinsilicon/))
 
