@@ -1,10 +1,10 @@
 # 👋 Hello, I'm [Achutha Aswin Naick]!
 
-Welcome to my GitHub profile! I’m passionate about **[Digital IC Design]** and **[Analog IC Design]**. I enjoy working on projects related to **[FPGAs, Analog Circuits Designing, OpenCV]**, and I love contributing to open-source.
+Welcome to my GitHub profile! I’m passionate about **Digital IC Design** and **Analog IC Design**. I enjoy working on projects related to **FPGAs, Analog Circuits Designing, OpenCV**, and I love contributing to open-source.
 
 🚀 **What I’m working on right now:**
-- Building cool stuff with **[FPGAs]**.
-- Learning **[Analog IC Designing]**.
+- Building cool stuff with **FPGAs**.
+- Learning **Analog IC Designing**.
 
 
 ## 📊 GitHub Stats
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m passionate about **[Digital IC Design]** and
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aswin2good&theme=react-dark)
 
 ### Let's Connect! 
-- [LinkedIn]([https://](https://www.linkedin.com/in/aswinsilicon/))
+- [LinkedIn]([https://](https://www.linkedin.com/in/aswinsilicon/)
 
 
 
